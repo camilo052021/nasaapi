@@ -4,6 +4,15 @@
         "startDate": "2020-10-10",
         "endDate": "2020-12-31",
         "api_key": "MtjvxnRz8LlJjBd0Y5RrZpwwRdhHw7XlfxayRFif"
-    }
-    
+    },
+
+    "comm": 
+     {
+      "url_com": "https://random-data-api.com/api/beer/random_beer",
+      "params": {
+        "size": 100,
+        "brewery_type": "micro",
+        "abv_gt": 5.0
+      }
+     }
 }

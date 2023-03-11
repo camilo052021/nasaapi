@@ -1,9 +1,7 @@
 import nasaapi
 
-
 def run():
-    nasaapi.descargar_info()
-
+    pass
 
 if __name__ == '__main__':
     run()
