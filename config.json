@@ -1,7 +1,9 @@
-
-    {
-        "apikey": "MtjvxnRz8LlJjBd0Y5RrZpwwRdhHw7XlfxayRFif",
-        "url": "https://api.nasa.gov/DONKI/CME?",
-        "dateinit": "2020-10-10",
-        "dateend": "2020-12-31"
+{
+    "url": "https://api.nasa.gov/DONKI/CME",
+    "params": {
+        "startDate": "2020-10-10",
+        "endDate": "2020-12-31",
+        "api_key": "MtjvxnRz8LlJjBd0Y5RrZpwwRdhHw7XlfxayRFif"
     }
+    
+}

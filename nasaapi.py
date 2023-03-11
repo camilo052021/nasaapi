@@ -1,24 +1,23 @@
 import os
 import json
 import requests
+import pandas as pd
 
 
-with open("config.json") as data:
-    params = json.load(data)
+with open("config.json") as f:
+    config = json.load(f)
 
-url = f"{params['url']}startDate={params['dateinit']}&endDate{params['dateend']}&api_key={params['apikey']}"
-#url = "https://api.nasa.gov/DONKI/CME?startDate=2020-10-10&endDate=2020-12-31&api_key=MtjvxnRz8LlJjBd0Y5RrZpwwRdhHw7XlfxayRFif"
-print(url)
-
-# params = {
-#     params['dateinit'],
-#     params['dateend'],
-#     params['apikey']sss
-#  }
-
-def descargar_info():
-    res = requests.get(url)
-    return res.text
+url = config['url']
+params = config['params']
 
 
-print(descargar_info())
+def descargar_info(*args):
+    res = requests.get(url, params=params)
+    data = res.json()
+    return data
+
+data = descargar_info(url, params)
+df = pd.json_normalize(data)
+df = df.iloc[:, :5]
+df.to_csv('data.txt', index=False)
+
