@@ -14,5 +14,13 @@
         "brewery_type": "micro",
         "abv_gt": 5.0
       }
+     },
+
+     "cnx":{
+      "database": "dbpruebas",
+      "user": "postgres",
+      "password": 1234,
+      "host": "localhost",
+      "port": 5432
      }
 }
