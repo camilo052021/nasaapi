@@ -1,5 +1,5 @@
-
-DROP TABLE IF EXISTS results;
+--------------/*este código es para la creación de la tabla que contendra los datos que se prodijeron en el dataframe*/-------------------
+DROP TABLE IF EXISTS results CASCADE;
 CREATE TABLE results(
     activityID TEXT ,
     catalog TEXT ,
@@ -22,7 +22,3 @@ CREATE TABLE results(
     Country TEXT ,
     FundationYear INT
 );
-
-CREATE VIEW relex as
-SELECT * FROM public.results
-WHERE id_y is not null;

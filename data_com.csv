@@ -1,101 +1,101 @@
 id,uid,brand,name,style,hop,yeast,malts,ibu,alcohol,blg
-303,e192cd8c-b876-475a-9777-e45cee8031af,Sapporo,Bell’s Expedition,European Amber Lager,Simcoe,5112 - Brettanomyces bruxellensis,Special roast,71 IBU,9.0%,13.2°Blg
-9786,81dc802d-5353-4aa4-b3cb-eae57fb98947,Sierra Nevada,Sapporo Premium,Porter,Magnum,2206 - Bavarian Lager,Vienna,87 IBU,5.5%,16.4°Blg
-9834,7b4a7704-77ef-4e4b-87f7-b88c70a317cd,Quimes,Trois Pistoles,Light Lager,Tettnang,3787 - Trappist High Gravity,Roasted barley,83 IBU,5.3%,7.6°Blg
-5720,076d970a-1aec-411c-a1b1-ecd83b011533,Heineken,Oak Aged Yeti Imperial Stout,European Amber Lager,Magnum,1762 - Belgian Abbey II,Black malt,84 IBU,7.1%,11.2°Blg
-8940,99e336f6-9bea-434d-ad72-66e8d3cd3a6a,Patagonia,"Racer 5 India Pale Ale, Bear Republic Bre",Stout,Simcoe,2124 - Bohemian Lager,Black malt,49 IBU,7.7%,14.5°Blg
-228,ad33f85a-3ab8-44af-91fc-fde6a8b39393,Lowenbrau,Stone IPA,Belgian And French Ale,Mt. Rainier,5112 - Brettanomyces bruxellensis,Black malt,38 IBU,8.2%,5.1°Blg
-3566,e6396c30-7599-4776-9909-3e31bb796766,Hoegaarden,Westmalle Trappist Tripel,European Amber Lager,Chelan,5335 - Lactobacillus,Chocolate malt,50 IBU,7.9%,12.8°Blg
-4139,5c1b4af9-a732-4f3a-875e-36ede05f2fa3,Blue Moon,Nugget Nectar,Bock,Vanguard,2124 - Bohemian Lager,Chocolate,65 IBU,2.1%,12.9°Blg
-5940,daa3e2fb-4b06-4f5f-a351-a8660f3c3d7c,Budweiser,Duvel,European Amber Lager,Saaz,3068 - Weihenstephan Weizen,Wheat mal,70 IBU,4.9%,7.1°Blg
-9957,21b744d5-494a-4ec1-b958-582cc55d6ffb,Pabst Blue Ribbon,Pliny The Elder,Fruit Beer,Bullion,1450 - Dennys Favorite 50,Caramel,15 IBU,7.9%,17.7°Blg
-5142,96134108-3b1e-4a9b-b712-cd568dab0e2c,Heineken,Edmund Fitzgerald Porter,Merican Ale,Equinox,2007 - Pilsen Lager,Wheat mal,42 IBU,6.9%,14.0°Blg
-1951,983ed760-a933-47c7-b734-c063db844d5d,Red Stripe,Edmund Fitzgerald Porter,European Amber Lager,Liberty,2035 - American Lager,Chocolate malt,24 IBU,5.1%,12.7°Blg
-7364,16e64f24-474e-443b-ad78-56b49f5310b4,Hoegaarden,Bell’s Expedition,Porter,Comet,2206 - Bavarian Lager,Caramel,71 IBU,8.0%,17.6°Blg
-5591,b9eb9a96-0610-4537-86e3-a00fedf150ee,Leffe,Bourbon County Stout,Smoke-flavored,Willamette,1007 - German Ale,Vienna,25 IBU,2.3%,19.9°Blg
-5339,23a6f41b-a124-48e9-9c0d-a0f08a99d060,Miller Draft,Ruination IPA,Amber Hybrid Beer,Golding,1968 - London ESB Ale,Special roast,76 IBU,4.4%,17.6°Blg
-6638,0a702009-5b3d-4577-ad8d-973a8e145489,Quimes,Oaked Arrogant Bastard Ale,Pilsner,Warrior,1388 - Belgian Strong Ale,Chocolate malt,52 IBU,7.9%,10.8°Blg
-7918,5d2288a9-52ff-4497-9dfa-a4afc2420301,Hoegaarden,Trappistes Rochefort 10,Scottish And Irish Ale,Warrior,2565 - Kölsch,Pale,16 IBU,2.3%,7.3°Blg
-8015,048ff609-f62a-4e9d-a0a0-dc22565822ad,Fosters,90 Minute IPA,Bock,Amarillo,5112 - Brettanomyces bruxellensis,Victory,99 IBU,9.8%,11.4°Blg
-4276,33f0e0bd-2e3c-4898-9a14-bd11c8bdc846,Rolling Rock,Nugget Nectar,Belgian Strong Ale,Crystal,2035 - American Lager,Munich,91 IBU,5.8%,10.6°Blg
-7143,51583dba-bd7f-48bb-9987-6917bfdf6046,Rolling Rock,Kirin Inchiban,Porter,Cashmere,3944 - Belgian Witbier,Chocolate,83 IBU,8.2%,18.9°Blg
-4697,c4b59963-7bee-4cbb-a2b7-023934f92e2b,Becks,Hennepin,Belgian Strong Ale,Magnum,2001 - Urquell Lager,Special roast,86 IBU,7.4%,18.3°Blg
-2986,6c1c5f1d-4306-40e6-8fa4-c4bf5b2bea18,Sierra Nevada,Maharaj,Fruit Beer,Fuggle,3638 - Bavarian Wheat,Victory,92 IBU,5.7%,16.9°Blg
-73,1e413df9-2fe1-4e6b-bd9d-901f6cbd38f3,Rolling Rock,Sierra Nevada Bigfoot Barleywine Style Ale,Belgian And French Ale,Newport,1728 - Scottish Ale,Special roast,25 IBU,4.2%,5.0°Blg
-1809,aa914b0f-a2bf-4e4d-b263-0adfa85681de,Budweiser,Trappistes Rochefort 8,Wood-aged Beer,Bullion,2007 - Pilsen Lager,Munich,95 IBU,7.3%,18.5°Blg
-3022,647f5e33-a7fa-40c9-bcf4-81c5cd26760c,Sapporo,Trappistes Rochefort 8,European Amber Lager,Santiam,3942 - Belgian Wheat,Special roast,74 IBU,5.6%,19.5°Blg
-182,090ea48a-86e5-440b-8745-0866c5d999dc,Red Stripe,Pliny The Elder,Strong Ale,Glacier,1084 - Irish Ale,Rye malt,55 IBU,9.3%,13.5°Blg
-3051,5cd17cb5-0a71-4040-ae7c-7f40e2aade79,BudLight,Pliny The Elder,Scottish And Irish Ale,Millennium,1469 - West Yorkshire Ale,Special roast,43 IBU,9.5%,15.7°Blg
-6764,7b153027-dfbd-48a2-8a8e-8fc9b2cd5d81,Delirium,Samuel Smith’s Imperial IPA,India Pale Ale,Equinox,1469 - West Yorkshire Ale,Vienna,24 IBU,2.7%,16.7°Blg
-203,30a5ed0b-220f-4834-9160-cdd623429e3f,Quimes,Bell’s Expedition,English Pale Ale,Centennial,3522 - Belgian Ardennes,Chocolate malt,67 IBU,8.2%,7.6°Blg
-6308,8c891150-7f13-48d1-abc4-fc516f1bd2ee,Lowenbrau,Ten FIDY,Porter,Galena,5526 - Brettanomyces lambicus,Wheat mal,10 IBU,8.7%,15.8°Blg
-1512,dc1f95a3-4a43-4cdf-8ee3-52139792e9c6,Carlsberg,Ten FIDY,Amber Hybrid Beer,Ahtanum,1388 - Belgian Strong Ale,Carapils,24 IBU,2.8%,7.6°Blg
-7152,7cefb91e-7033-495f-bbeb-ec9f524c5b96,Pacifico,Ruination IPA,Bock,Yakima Gol,1968 - London ESB Ale,Special roast,45 IBU,6.9%,6.8°Blg
-9495,d8305241-ec4a-46af-b024-9d998bc7965a,Sapporo,Hennepin,Strong Ale,Simcoe,1469 - West Yorkshire Ale,Carapils,29 IBU,6.4%,7.3°Blg
-1896,e1455330-e290-429c-94fa-e010a7cad0df,Corona Extra,Bell’s Expedition,Porter,Willamette,1335 - British Ale II,Chocolate,87 IBU,8.2%,9.2°Blg
-1705,e199d246-7712-44c1-8cfa-c32f379c9751,Tsingtao,St. Bernardus Abt 12,Merican Ale,TriplePearl,3463 - Forbidden Fruit,Caramel,69 IBU,6.1%,11.1°Blg
-6021,7d24a20b-3ee4-4510-a340-d1f108f28437,Carlsberg,Edmund Fitzgerald Porter,Sour Ale,Cluster,1335 - British Ale II,Pale,29 IBU,8.0%,10.5°Blg
-4660,b5cb34dc-1097-4719-bc48-2ad83885bc6a,Quimes,Oaked Arrogant Bastard Ale,English Brown Ale,Millennium,1728 - Scottish Ale,Vienna,44 IBU,8.2%,9.1°Blg
-8658,8f4f6018-a354-4c2e-b541-794cbbbcfe20,Coors lite,Arrogant Bastard Ale,Belgian Strong Ale,Brewer’s Gold,2124 - Bohemian Lager,Black malt,89 IBU,5.1%,6.6°Blg
-4392,8bd3509e-7f92-427f-a300-839403ed9a9b,Delirium,Pliny The Elder,Stout,Golding,1099 - Whitbread Ale,Roasted barley,80 IBU,6.1%,17.2°Blg
-7705,d7f6bbaf-0934-497e-8af2-30bdd45308a4,Sierra Nevada,Maharaj,Porter,Fuggle,2042 - Danish Lager,Black malt,66 IBU,5.6%,18.8°Blg
-9403,ad05e548-a164-4af2-a1cc-6e1f8f60e24d,Carlsberg,St. Bernardus Abt 12,Amber Hybrid Beer,Centennial,1028 - London Ale,Chocolate malt,34 IBU,7.3%,19.6°Blg
-329,78bbfe6f-b0ec-4afe-83df-b1ca1d7cb119,Becks,Schneider Aventinus,German Wheat And Rye Beer,Mosaic,1056 - American Ale,Victory,22 IBU,7.3%,15.6°Blg
-557,807e85d6-5e55-4092-acd1-66ca781c20fa,Fosters,Samuel Smith’s Oatmeal Stout,Dark Lager,Sterling,3787 - Trappist High Gravity,Munich,95 IBU,2.3%,14.4°Blg
-4759,0fb53fc5-837b-454f-9681-5c4134e57d7b,Blue Moon,Schneider Aventinus,Fruit Beer,Hallertau,1010 - American Wheat,Caramel,68 IBU,3.3%,12.8°Blg
-6137,e2c3a80a-2c48-4524-8552-17a20323d3d8,Patagonia,La Fin Du Monde,Dark Lager,Palisade,1007 - German Ale,Black malt,78 IBU,4.5%,19.7°Blg
-1584,250990a5-4510-4906-ac42-4d0f9433a3cc,Harp,Chimay Grande Réserve,Fruit Beer,Summit,3056 - Bavarian Wheat Blend,Carapils,83 IBU,9.8%,9.5°Blg
-4862,72db4594-bba6-45fa-b56a-3bddee9e0a8c,Guinness,90 Minute IPA,Sour Ale,Summit,2308 - Munich Lager,Black malt,45 IBU,2.0%,16.1°Blg
-3546,a85d98f5-4843-4d40-8e15-882ac237641a,Heineken,Bell’s Expedition,Dark Lager,Cluster,3638 - Bavarian Wheat,Roasted barley,26 IBU,2.3%,15.9°Blg
-5048,6f3d8ac7-a503-4a70-bb81-a2a736e3c498,Miller Draft,Sapporo Premium,Bock,Glacier,2112 - California Lager,Caramel,79 IBU,8.8%,14.0°Blg
-2488,aadb4183-a26f-43b5-890b-04db41242bff,Carlsberg,Weihenstephaner Hefeweissbier,Scottish And Irish Ale,Amarillo,1968 - London ESB Ale,Special roast,86 IBU,4.7%,8.8°Blg
-4163,cf992672-0039-4d16-aec2-bb74a3cfe9ba,Pabst Blue Ribbon,Sierra Nevada Bigfoot Barleywine Style Ale,India Pale Ale,Galena,1728 - Scottish Ale,Rye malt,44 IBU,4.3%,19.3°Blg
-5010,c27af470-c81b-4537-a120-8ce9ffdbde06,Sierra Nevada,Sierra Nevada Bigfoot Barleywine Style Ale,Stout,Newport,2124 - Bohemian Lager,Chocolate,36 IBU,5.7%,6.5°Blg
-66,55a0d561-ff45-4042-bf63-2264731681a2,Pabst Blue Ribbon,Yeti Imperial Stout,Porter,Vanguard,1318 - London Ale III,Rye malt,19 IBU,5.4%,8.5°Blg
-6767,9f3a13a4-f760-41a1-b129-dc76a413010f,Patagonia,Chimay Grande Réserve,Merican Ale,Golding,1318 - London Ale III,Wheat mal,64 IBU,6.7%,6.9°Blg
-1234,1dacc41f-39c5-49de-a02b-fdb597193a78,Guinness,Storm King Stout,Stout,Golding,5526 - Brettanomyces lambicus,Rye malt,35 IBU,7.8%,10.2°Blg
-5444,cf27412e-e465-4c1a-ace3-9dea024fa24c,Delirium,Stone IPA,Bock,Warrior,3056 - Bavarian Wheat Blend,Chocolate,82 IBU,6.5%,18.8°Blg
-4865,5e3f8a2a-ae99-4977-b60f-ee9931ce80ee,Stella Artois,Celebrator Doppelbock,Strong Ale,Amarillo,5733 - Pediococcus,Special roast,55 IBU,7.3%,9.5°Blg
-4869,1c57452d-b602-4376-aafd-a86f6ab50477,Murphys,Brooklyn Black,Bock,Comet,2007 - Pilsen Lager,Vienna,76 IBU,9.6%,12.4°Blg
-9530,804750d7-994b-4c5f-9b9d-5f238b867fa3,Rolling Rock,Double Bastard Ale,Merican Ale,Cashmere,1335 - British Ale II,Black malt,64 IBU,2.3%,5.3°Blg
-3092,96404ae0-0e01-4e14-815a-ccdf019d3252,Leffe,Samuel Smith’s Imperial IPA,Sour Ale,Glacier,2000 - Budvar Lager,Black malt,65 IBU,3.5%,14.8°Blg
-8824,e8525d00-62f3-4f76-8867-21eba165222a,Patagonia,Westmalle Trappist Tripel,Wood-aged Beer,Eroica,2000 - Budvar Lager,Munich,48 IBU,9.7%,10.8°Blg
-6369,3d0febe9-3ec3-4ab5-9271-9f3a4b6dd303,Tsingtao,Hop Rod Rye,India Pale Ale,Ultra,5526 - Brettanomyces lambicus,Rye malt,50 IBU,6.8%,18.0°Blg
-701,77f62417-9424-4f9f-8c12-cb2f17de8b5a,Pacifico,Arrogant Bastard Ale,Porter,Sterling,1028 - London Ale,Pale,99 IBU,5.7%,5.6°Blg
-9942,ef43b05a-4c01-48e8-ab7d-9e6e2e3a13ea,Dos Equis,Bourbon County Stout,Amber Hybrid Beer,Chelan,1099 - Whitbread Ale,Caramel,88 IBU,8.6%,5.2°Blg
-3884,f1221f04-2c65-47ed-ae78-02fbb3dd1fea,Carlsberg,Bell’s Expedition,Bock,TriplePearl,3711 - French Saison,Munich,79 IBU,7.1%,13.3°Blg
-4215,a14e36f9-48e9-4ef9-b0db-4c52f485489d,Samuel Adams,Trois Pistoles,German Wheat And Rye Beer,Warrior,1098 - British Ale,Munich,80 IBU,9.3%,17.3°Blg
-880,08cf7e56-1ab9-4f5e-bf1a-e1241218f56b,Red Stripe,Maudite,Strong Ale,Centennial,5335 - Lactobacillus,Munich,26 IBU,6.1%,15.9°Blg
-4403,6e6bfcde-06b4-44a5-921b-efe17a30bc16,Birra Moretti,Double Bastard Ale,European Amber Lager,Cascade,3522 - Belgian Ardennes,Caramel,51 IBU,5.5%,18.5°Blg
-5009,4cead161-2955-4233-af14-b2e91ab76db6,Becks,Brooklyn Black,India Pale Ale,Eroica,1084 - Irish Ale,Special roast,13 IBU,5.1%,11.7°Blg
-3939,a74f7c55-3b10-4061-b5d8-adb910beb2c8,Hoegaarden,Bell’s Expedition,Bock,Chelan,3278 - Belgian Lambic Blend,Pale,79 IBU,4.8%,8.4°Blg
-2203,af810cae-3480-40b0-985c-153f6687317b,Pabst Blue Ribbon,Chocolate St,Light Lager,Galena,1968 - London ESB Ale,Black malt,91 IBU,9.1%,16.2°Blg
-4664,27759d23-5a60-49b7-8117-d48a5d1e493f,Quimes,Ruination IPA,Wood-aged Beer,Magnum,1318 - London Ale III,Caramel,39 IBU,7.6%,9.2°Blg
-9860,c90b81c3-ffa9-4880-805d-bb99c2618985,Leffe,Sublimely Self-Righteous Ale,Porter,Liberty,1318 - London Ale III,Chocolate malt,35 IBU,9.5%,18.8°Blg
-9914,40f89b0b-1801-490d-9433-a390fdfcb92c,Miller Draft,Samuel Smith’s Imperial IPA,Dark Lager,Crystal,1098 - British Ale,Caramel,60 IBU,8.1%,19.5°Blg
-7643,8112c349-9b67-431d-a776-6a6c26b64938,Miller Draft,Dreadnaught IPA,European Amber Lager,Amarillo,1272 - American Ale II,Roasted barley,68 IBU,2.5%,8.2°Blg
-3890,fe494165-96e5-4946-9d3f-b97c3b8491d6,Rolling Rock,Ten FIDY,Vegetable Beer,Crystal,1318 - London Ale III,Special roast,49 IBU,4.5%,10.6°Blg
-2556,4a7c4210-1551-4de5-8636-79ba87c2a166,Delirium,Founders Kentucky Breakfast,Scottish And Irish Ale,Amarillo,3056 - Bavarian Wheat Blend,Munich,75 IBU,6.5%,10.7°Blg
-4930,7b96cda6-46b7-4bcd-9bd1-8703d24d90cb,Murphys,Sierra Nevada Bigfoot Barleywine Style Ale,Wood-aged Beer,Citra,1010 - American Wheat,Victory,30 IBU,3.1%,6.6°Blg
-7138,ca3d9c08-9d3b-4cb3-9b7f-a9d72badaa7c,Miller Draft,Founders Kentucky Breakfast,German Wheat And Rye Beer,Citra,2206 - Bavarian Lager,Wheat mal,94 IBU,4.5%,10.7°Blg
-8028,2eb7b766-dcdd-4603-a24e-032236cca1ab,Dos Equis,Stone Imperial Russian Stout,Belgian And French Ale,Sterling,3944 - Belgian Witbier,Pale,97 IBU,9.0%,12.6°Blg
-6318,dcb9fada-4bef-4e3e-91c4-dbedcebce99f,Carlsberg,Delirium Tremens,Light Lager,Citra,1968 - London ESB Ale,Chocolate malt,26 IBU,2.4%,14.2°Blg
-5828,f66c8e56-0136-4e17-9a36-638e94c41bea,Samuel Adams,Oaked Arrogant Bastard Ale,Light Lager,Mt. Hood,3942 - Belgian Wheat,Carapils,65 IBU,8.5%,18.0°Blg
-2482,a054f420-6dcf-4407-9a32-dab7cfab7233,Sierra Nevada,Delirium Tremens,German Wheat And Rye Beer,Columbus,3763 - Roeselare Ale Blend,Wheat mal,81 IBU,5.0%,13.9°Blg
-4824,a76e95f3-c227-4e9b-a2c8-093633acd30d,Stella Artois,Samuel Smith’s Imperial IPA,Porter,Perle,3944 - Belgian Witbier,Wheat mal,77 IBU,8.5%,10.4°Blg
-6052,27c82adc-a7b1-4cf1-ba24-2769a7859c6d,Amstel,Westmalle Trappist Tripel,Dark Lager,Ahtanum,2007 - Pilsen Lager,Rye malt,27 IBU,5.4%,7.2°Blg
-9287,2a148c1b-647c-45d0-b53b-fc22682975e7,Budweiser,90 Minute IPA,Dark Lager,Vanguard,1762 - Belgian Abbey II,Carapils,74 IBU,9.2%,13.8°Blg
-7935,b929326e-5a70-4535-9c2c-ba2db09c95b7,Leffe,St. Bernardus Abt 12,English Pale Ale,Ultra,3724 - Belgian Saison,Carapils,14 IBU,8.0%,15.9°Blg
-2417,668358f0-7366-4e96-bb4b-6596b1263dbf,Carlsberg,90 Minute IPA,Sour Ale,Horizon,3711 - French Saison,Victory,72 IBU,2.5%,17.7°Blg
-4628,10aeceef-b86f-4ccb-b292-ec83982391a2,Fosters,Delirium Tremens,India Pale Ale,Chinook,3068 - Weihenstephan Weizen,Rye malt,10 IBU,5.4%,8.2°Blg
-2300,28966ece-053d-49d9-a662-9689d7dcea52,Dos Equis,Samuel Smith’s Oatmeal Stout,Merican Ale,Bullion,3638 - Bavarian Wheat,Carapils,96 IBU,9.4%,13.1°Blg
-1232,bc73b2da-ac9b-46a6-a15a-b5ae6b2fd44a,Becks,Delirium Tremens,Vegetable Beer,Glacier,3763 - Roeselare Ale Blend,Carapils,53 IBU,3.6%,13.1°Blg
-3290,12c0e8d0-2f08-4b27-a42d-31494375a73f,Pacifico,Delirium Tremens,Smoke-flavored,Bullion,1214 - Belgian Abbey,Caramel,42 IBU,7.2%,11.8°Blg
-1857,b73d4753-c22a-4086-a1cd-12829392163b,Guinness,Founders Breakfast Stout,Porter,Golding,2042 - Danish Lager,Caramel,20 IBU,5.4%,8.1°Blg
-1482,eb72965f-aa73-4d38-8037-40429a793c7c,Sierra Nevada,Bell’s Expedition,Stout,Bitter Gold,1318 - London Ale III,Rye malt,10 IBU,3.0%,6.5°Blg
-3934,5d252cb3-cb25-434c-b323-76515ef775e3,Lowenbrau,Bourbon County Stout,Scottish And Irish Ale,Chelan,5526 - Brettanomyces lambicus,Vienna,68 IBU,5.8%,14.5°Blg
-8434,6e477669-836b-4f9c-a768-c50c44a30adf,Amstel,Double Bastard Ale,Light Hybrid Beer,Cascade,1332 - Northwest Ale,Munich,49 IBU,4.0%,16.4°Blg
-8911,90cec46d-8f91-4739-bf4f-17fc293eb758,Rolling Rock,Kirin Inchiban,India Pale Ale,Sorachi Ace,5733 - Pediococcus,Caramel,12 IBU,2.7%,9.0°Blg
-6463,692b4f75-ee18-4b80-b86b-00ad8d0910b2,Murphys,Hercules Double IPA,Strong Ale,Cluster,3056 - Bavarian Wheat Blend,Chocolate,21 IBU,7.0%,10.3°Blg
-1787,3ab63f2d-5e4a-49ea-ab34-6ec86ad2bbae,Harp,Trappistes Rochefort 10,Light Lager,Palisade,1028 - London Ale,Vienna,62 IBU,9.4%,7.2°Blg
-6448,975a73af-8136-4b65-bde7-697872033cb8,Patagonia,Maudite,Stout,Crystal,2308 - Munich Lager,Victory,24 IBU,9.3%,15.9°Blg
+2343,43a3ce28-5a9c-4f8a-9204-99d30e48c305,Blue Moon,Oaked Arrogant Bastard Ale,English Brown Ale,Millennium,1084 - Irish Ale,Vienna,47 IBU,4.7%,13.6°Blg
+8473,8ce3da0d-2cdb-4a72-84d5-96e885074c86,Harp,Stone IPA,Amber Hybrid Beer,Amarillo,1762 - Belgian Abbey II,Roasted barley,96 IBU,2.2%,16.3°Blg
+6487,1d427853-8af1-4e4c-a8a1-4abf66bd8de9,Red Stripe,"Racer 5 India Pale Ale, Bear Republic Bre",German Wheat And Rye Beer,Yakima Gol,3944 - Belgian Witbier,Black malt,52 IBU,7.3%,12.3°Blg
+2026,13e675d3-c22f-4cba-9a2a-421be8768adb,Samuel Adams,Arrogant Bastard Ale,Porter,Willamette,1010 - American Wheat,Munich,50 IBU,2.8%,18.3°Blg
+1256,42636276-0b16-428d-8198-513eef1f933a,Harp,Trois Pistoles,Light Hybrid Beer,Ahtanum,1084 - Irish Ale,Carapils,58 IBU,4.7%,15.9°Blg
+8909,8461d6f5-d3ae-460a-a302-e567b4c33098,Pabst Blue Ribbon,Péché Mortel,Merican Ale,Glacier,1028 - London Ale,Pale,93 IBU,8.3%,19.5°Blg
+5252,315a9601-139e-4116-8893-c4ccb3556350,Sapporo,Duvel,Light Lager,Summit,2565 - Kölsch,Victory,13 IBU,3.4%,11.5°Blg
+3964,1edf8f4d-4dc9-4e9f-91bc-9f34111750eb,Pabst Blue Ribbon,Sierra Nevada Bigfoot Barleywine Style Ale,European Amber Lager,Sorachi Ace,3711 - French Saison,Carapils,61 IBU,9.5%,18.7°Blg
+749,068af0eb-7332-406c-b400-a8574381442e,Rolling Rock,90 Minute IPA,Stout,Simcoe,1275 - Thames Valley Ale,Munich,90 IBU,7.9%,7.5°Blg
+4690,59ccddc7-91c4-441c-bf46-e57627c24abc,Kirin,Hop Rod Rye,Dark Lager,Ahtanum,1010 - American Wheat,Rye malt,20 IBU,3.6%,8.6°Blg
+9566,66ed4fc8-ce8b-45fb-97e9-cc416107aa56,Corona Extra,Chimay Grande Réserve,Wood-aged Beer,Fuggle,1762 - Belgian Abbey II,Pale,22 IBU,6.7%,7.2°Blg
+5405,303085ab-820c-4311-a3ca-ce5e68a8ed82,Amstel,Westmalle Trappist Tripel,Pilsner,Chelan,2124 - Bohemian Lager,Wheat mal,21 IBU,4.6%,15.4°Blg
+2130,e5df963f-b8a4-4b74-ad66-8cbfb88f8788,Kirin,Ten FIDY,Porter,Summit,2565 - Kölsch,Victory,11 IBU,7.5%,17.4°Blg
+5571,53ad24f2-6de7-4d7b-81e1-1f069562fa98,Blue Moon,Sierra Nevada Celebration Ale,Belgian Strong Ale,Chinook,1098 - British Ale,Caramel,35 IBU,2.9%,5.7°Blg
+8839,0eb807fb-d09f-42be-a9a4-38ebee14e63d,Dos Equis,Sierra Nevada Celebration Ale,Sour Ale,Tettnang,5112 - Brettanomyces bruxellensis,Wheat mal,17 IBU,9.2%,17.3°Blg
+2555,80a315dd-aa38-45d4-acd8-706cb9e951e5,Kirin,90 Minute IPA,Stout,Equinox,1010 - American Wheat,Vienna,30 IBU,3.1%,11.0°Blg
+2281,b4dfbdf4-0d78-4752-924e-221d6f3c6895,Heineken,Samuel Smith’s Imperial IPA,Amber Hybrid Beer,TriplePearl,5112 - Brettanomyces bruxellensis,Vienna,75 IBU,6.1%,8.5°Blg
+1210,4342e4df-7b08-41a8-b8eb-b9138702f03f,Budweiser,Yeti Imperial Stout,European Amber Lager,Perle,3056 - Bavarian Wheat Blend,Carapils,87 IBU,6.8%,11.8°Blg
+3909,6e24be16-c753-4ed6-9938-a2162a4ef7a9,Blue Moon,Sierra Nevada Celebration Ale,Fruit Beer,Sorachi Ace,2308 - Munich Lager,Victory,25 IBU,2.3%,16.9°Blg
+8070,d897cfed-592c-48ab-a8d0-9c3d33ef3bf2,Sierra Nevada,Stone IPA,Vegetable Beer,Palisade,2206 - Bavarian Lager,Victory,20 IBU,5.4%,16.0°Blg
+1041,69dd39d7-7ede-4f87-925d-0f9c1dead705,Pacifico,Sierra Nevada Celebration Ale,Porter,Magnum,1007 - German Ale,Vienna,97 IBU,2.6%,8.9°Blg
+1808,49b31283-5106-4700-90cc-9a9fbf6cd279,Pabst Blue Ribbon,Weihenstephaner Hefeweissbier,Sour Ale,Mt. Rainier,2565 - Kölsch,Caramel,95 IBU,6.8%,5.6°Blg
+918,ad4dd899-a9b6-4ff9-b221-9e546d61e176,Harp,Chimay Grande Réserve,Merican Ale,Willamette,5335 - Lactobacillus,Roasted barley,55 IBU,9.6%,17.7°Blg
+4426,a5208264-80b0-4767-b99d-7471ba04e64a,Patagonia,Samuel Smith’s Oatmeal Stout,Light Lager,Millennium,3278 - Belgian Lambic Blend,Caramel,25 IBU,7.0%,19.7°Blg
+6671,8e226dfa-faa6-48a9-a4db-79ceead7d5a3,Pacifico,Ten FIDY,Merican Ale,Ahtanum,2308 - Munich Lager,Special roast,68 IBU,2.7%,11.1°Blg
+9855,8d4ebfcd-0603-48ce-9fde-6aefd794df96,Amstel,Kirin Inchiban,Amber Hybrid Beer,Cashmere,1214 - Belgian Abbey,Rye malt,90 IBU,3.7%,14.2°Blg
+9289,096fd7b9-d627-4a5d-bf97-8e51d74f1fc1,Murphys,Hercules Double IPA,Vegetable Beer,Yakima Gol,1187 - Ringwood Ale,Carapils,64 IBU,5.1%,18.7°Blg
+7859,e82be6d2-1dc2-4618-be6c-0f5217e32cc8,Delirium,Ten FIDY,Merican Ale,Citra,1084 - Irish Ale,Munich,30 IBU,9.3%,6.1°Blg
+201,e8646468-9465-4069-aaae-8c705c76661d,Blue Moon,Oak Aged Yeti Imperial Stout,Pilsner,Bravo,2035 - American Lager,Chocolate,58 IBU,6.8%,5.5°Blg
+5734,58d75255-f4b8-45fb-9da8-4a28a1f47101,Miller Draft,Maudite,Scottish And Irish Ale,TriplePearl,1098 - British Ale,Roasted barley,44 IBU,5.9%,9.0°Blg
+5996,6aba0ed0-1c0d-4a2c-9007-4034e4a9ce2a,Leffe,Ten FIDY,Scottish And Irish Ale,Cluster,1214 - Belgian Abbey,Caramel,22 IBU,6.7%,17.3°Blg
+746,e9cf2709-d6bf-4441-852b-d7efeb846bee,Fosters,Sierra Nevada Bigfoot Barleywine Style Ale,Stout,Chinook,2278 - Czech Pils,Chocolate malt,82 IBU,5.7%,6.3°Blg
+2077,2049ed63-cd18-4d9b-8ff4-bd836f9f4b03,Red Stripe,Trappistes Rochefort 8,Wood-aged Beer,Amarillo,3056 - Bavarian Wheat Blend,Munich,96 IBU,9.0%,8.2°Blg
+556,9a54f54e-4cb9-4297-a4b7-84c3ee506686,Sapporo,Chimay Grande Réserve,German Wheat And Rye Beer,Saaz,1187 - Ringwood Ale,Roasted barley,67 IBU,5.0%,14.5°Blg
+4172,3d4b7f07-f760-410d-bab9-6a4c1ce883f0,Red Stripe,Maudite,Smoke-flavored,Comet,2007 - Pilsen Lager,Carapils,11 IBU,6.1%,9.9°Blg
+7887,28041a22-6cb5-40ce-8ff9-44b699ab2e5e,Heineken,Dreadnaught IPA,Amber Hybrid Beer,Columbia,2112 - California Lager,Victory,51 IBU,3.2%,11.5°Blg
+5460,4371994a-442d-4f8d-9906-4e9c4b5905dc,Budweiser,Trois Pistoles,Belgian Strong Ale,Ahtanum,5526 - Brettanomyces lambicus,Carapils,16 IBU,4.5%,16.0°Blg
+4197,437b159a-8dc5-4e15-aba0-fcc85895caf3,Amstel,Pliny The Elder,German Wheat And Rye Beer,Tettnang,2633 - Octoberfest Lager Blend,Vienna,14 IBU,7.8%,16.8°Blg
+8853,dba45bd3-2e72-4f9c-a81d-9c6cc7f14998,Sierra Nevada,Edmund Fitzgerald Porter,Bock,Perle,1335 - British Ale II,Victory,71 IBU,8.0%,6.3°Blg
+6525,6e84094a-953e-411e-a3a8-0f428dc1737a,Dos Equis,La Fin Du Monde,Wood-aged Beer,Fuggle,2035 - American Lager,Carapils,88 IBU,6.0%,11.4°Blg
+3185,67e6434b-305b-4abb-bef0-84efb145eb1a,Sierra Nevada,Chocolate St,Belgian Strong Ale,Amarillo,2124 - Bohemian Lager,Caramel,23 IBU,6.8%,9.6°Blg
+2580,aeb29fc7-25ba-462b-ae75-fcb55c52b649,Red Stripe,Samuel Smith’s Oatmeal Stout,Light Lager,Palisade,2565 - Kölsch,Roasted barley,39 IBU,6.8%,18.5°Blg
+2144,fe9b704c-5b68-441c-8567-21b0206bda83,Corona Extra,Bell’s Expedition,Scottish And Irish Ale,Sorachi Ace,2042 - Danish Lager,Chocolate malt,91 IBU,9.0%,15.4°Blg
+9695,411c4b63-7d45-46f1-bf30-e2006b2494b7,Quimes,Bourbon County Stout,Merican Ale,Columbus,2565 - Kölsch,Black malt,88 IBU,7.6%,7.0°Blg
+537,9273ef6e-b398-4b0d-a36a-ffd8db00be3a,Leffe,Oaked Arrogant Bastard Ale,German Wheat And Rye Beer,Galena,1275 - Thames Valley Ale,Munich,65 IBU,8.2%,13.2°Blg
+3538,d9e5baf0-be8e-43fd-a317-0f39a16feeea,Carlsberg,Bourbon County Stout,Belgian And French Ale,Willamette,5335 - Lactobacillus,Wheat mal,80 IBU,8.9%,5.6°Blg
+9180,e8c31fb9-734b-4015-9296-ef447e4fc903,Quimes,90 Minute IPA,Amber Hybrid Beer,Horizon,2035 - American Lager,Munich,12 IBU,9.9%,10.6°Blg
+8318,fd80bcb9-0713-4703-9a86-252ae9272d77,Tsingtao,Sierra Nevada Celebration Ale,Strong Ale,Summit,1388 - Belgian Strong Ale,Carapils,69 IBU,3.0%,8.8°Blg
+4479,d98e783e-d30c-4cdb-8e17-e82b748edcc4,Leffe,Double Bastard Ale,Vegetable Beer,Amarillo,2001 - Urquell Lager,Munich,67 IBU,9.7%,12.5°Blg
+2757,24c76544-3d6b-44c8-b931-82d7099adfe7,Budweiser,Stone Imperial Russian Stout,Vegetable Beer,Vanguard,3942 - Belgian Wheat,Pale,91 IBU,9.3%,8.9°Blg
+2631,1ebf032e-2735-4c01-8d22-b2bc7d0109f8,Red Stripe,Brooklyn Black,Light Lager,Tahoma,3333 - German Wheat,Chocolate malt,25 IBU,7.4%,5.0°Blg
+8309,9912f308-2a5c-47b6-bf60-d7ec01bb54dc,Quimes,Celebrator Doppelbock,Sour Ale,Brewer’s Gold,1084 - Irish Ale,Pale,97 IBU,8.8%,15.6°Blg
+7387,d6872567-4d99-48a0-8f26-22915d8dcb34,Blue Moon,Bell’s Expedition,European Amber Lager,Mosaic,3278 - Belgian Lambic Blend,Munich,34 IBU,4.9%,17.5°Blg
+9869,a64fe61e-911b-4f24-b961-e46a266fb770,Pacifico,Trois Pistoles,Sour Ale,Vanguard,1007 - German Ale,Caramel,98 IBU,3.7%,16.6°Blg
+7173,5637bbab-1c89-4752-9624-eb50da723694,Fosters,Founders Kentucky Breakfast,Strong Ale,Tahoma,1469 - West Yorkshire Ale,Chocolate malt,98 IBU,8.3%,5.2°Blg
+917,58eb884b-29e1-42d9-8511-8438de3bc9a2,Coors lite,Oaked Arrogant Bastard Ale,Bock,Ultra,2007 - Pilsen Lager,Wheat mal,53 IBU,8.8%,16.7°Blg
+1216,41b6bf34-2038-43dd-831e-d963f566ceb0,Amstel,Hennepin,India Pale Ale,Millennium,2001 - Urquell Lager,Wheat mal,100 IBU,5.3%,18.3°Blg
+8887,ca80f158-7919-4824-bc1f-ed9f680538a1,Corona Extra,Trappistes Rochefort 10,Scottish And Irish Ale,Eroica,1762 - Belgian Abbey II,Special roast,37 IBU,8.2%,7.6°Blg
+1924,535ac6ee-fe28-4235-aa66-4182b3f853a3,Leffe,Weihenstephaner Hefeweissbier,Belgian And French Ale,Sterling,1084 - Irish Ale,Carapils,20 IBU,6.7%,9.7°Blg
+9368,19ed50ef-68f3-4b4b-9614-d0f23b04894b,Lowenbrau,Pliny The Elder,Strong Ale,Ultra,2308 - Munich Lager,Rye malt,17 IBU,5.8%,18.3°Blg
+96,377711a8-bac4-4ce2-b3cd-374a26e809e4,Budweiser,90 Minute IPA,Dark Lager,Chinook,2042 - Danish Lager,Vienna,64 IBU,9.0%,5.3°Blg
+1220,4133027e-1c7f-4674-a6a6-c5963ce95801,Budweiser,Maharaj,English Brown Ale,Chelan,1028 - London Ale,Caramel,16 IBU,3.6%,8.7°Blg
+4777,ae547196-ba78-4df7-bc86-3aee54bad4bc,Miller Draft,Dreadnaught IPA,Pilsner,Columbia,2007 - Pilsen Lager,Victory,12 IBU,10.0%,16.3°Blg
+6779,fb644770-e365-4ce6-878d-65601c6910cd,Birra Moretti,Brooklyn Black,Pilsner,Bitter Gold,3278 - Belgian Lambic Blend,Wheat mal,85 IBU,9.5%,7.1°Blg
+5760,6a939fc3-4325-4b95-9aa1-b1416e64e37c,Becks,Hercules Double IPA,Amber Hybrid Beer,Warrior,1318 - London Ale III,Caramel,15 IBU,3.1%,16.7°Blg
+4386,754b015b-cbd9-468d-baba-3310656664d6,Dos Equis,HopSlam Ale,Fruit Beer,Olympic,1335 - British Ale II,Munich,50 IBU,5.4%,12.0°Blg
+8139,a43ec0bb-8f79-48a5-9f30-a9ef2ba1d081,Murphys,Oaked Arrogant Bastard Ale,Wood-aged Beer,Sterling,1187 - Ringwood Ale,Pale,39 IBU,8.1%,7.6°Blg
+9900,578ff770-5880-4488-8e5c-11085bc137a0,Murphys,Stone Imperial Russian Stout,Light Lager,Horizon,3711 - French Saison,Special roast,26 IBU,4.2%,7.8°Blg
+5699,02684d97-ac20-48a8-a2a2-c34debde321c,Corona Extra,Maharaj,Pilsner,Simcoe,2278 - Czech Pils,Munich,30 IBU,4.6%,9.9°Blg
+2216,6e547f4c-b5db-4297-933b-e362a31ac398,Lowenbrau,Ruination IPA,Sour Ale,Cluster,1010 - American Wheat,Munich,15 IBU,7.0%,19.0°Blg
+8879,344c1475-5a24-4c36-87b9-c41d7e29e9f0,Samuel Adams,Chimay Grande Réserve,English Brown Ale,Chinook,2001 - Urquell Lager,Rye malt,17 IBU,9.0%,10.1°Blg
+3300,0dbec807-04e2-48ce-a616-a96c817045f2,Miller Draft,"Racer 5 India Pale Ale, Bear Republic Bre",Smoke-flavored,Brewer’s Gold,1968 - London ESB Ale,Caramel,13 IBU,7.8%,11.6°Blg
+2544,b6754b2c-2cae-4a24-8533-725c977b6011,Coors lite,Nugget Nectar,European Amber Lager,Bullion,2035 - American Lager,Caramel,96 IBU,5.3%,19.6°Blg
+8782,3d757b93-247f-4c64-a1fc-b8aa14335add,Amstel,Brooklyn Black,English Pale Ale,Sterling,1318 - London Ale III,Vienna,92 IBU,7.7%,11.8°Blg
+9374,5d867a18-faa2-4cbc-becf-9d978f7c7252,Quimes,Delirium Noctorum,Scottish And Irish Ale,Warrior,1010 - American Wheat,Pale,97 IBU,6.6%,17.6°Blg
+2900,9a68ee64-2401-4435-97c9-b20a126e037b,Stella Artois,Samuel Smith’s Imperial IPA,English Pale Ale,Bitter Gold,2278 - Czech Pils,Caramel,39 IBU,6.4%,12.7°Blg
+170,c7186a88-c0d3-4f8e-bd9f-c8f93a29eddd,Coors lite,Schneider Aventinus,Amber Hybrid Beer,Golding,1214 - Belgian Abbey,Wheat mal,57 IBU,5.1%,18.9°Blg
+7808,9e767f88-c662-4919-8446-325e11569e92,Harp,90 Minute IPA,India Pale Ale,Santiam,3463 - Forbidden Fruit,Pale,78 IBU,4.8%,8.7°Blg
+1786,581672fa-474d-4bbe-9848-bdab66fbacd1,Patagonia,Edmund Fitzgerald Porter,Vegetable Beer,Vanguard,2633 - Octoberfest Lager Blend,Victory,67 IBU,5.5%,9.4°Blg
+8699,6e9f1da1-8378-49d4-9f48-e381363cc6a7,Leffe,Sierra Nevada Bigfoot Barleywine Style Ale,Belgian Strong Ale,Citra,3278 - Belgian Lambic Blend,Pale,56 IBU,5.3%,18.5°Blg
+387,ba8237de-d174-49f3-a9e8-45b7cc0c815a,Quimes,Bourbon County Stout,Strong Ale,Equinox,5526 - Brettanomyces lambicus,Caramel,22 IBU,5.6%,8.6°Blg
+6092,17217c1b-c3dd-481f-84f2-9e2924dee1b5,Budweiser,Westmalle Trappist Tripel,Stout,Hallertau,3763 - Roeselare Ale Blend,Pale,77 IBU,4.1%,16.2°Blg
+8236,4de241af-f5bc-45f3-b509-8e10176499d7,Lowenbrau,Oaked Arrogant Bastard Ale,Fruit Beer,Sterling,1762 - Belgian Abbey II,Chocolate,18 IBU,5.9%,18.6°Blg
+9033,10076e3a-4dae-4d03-9365-cbc0245f0ad1,Pabst Blue Ribbon,Hercules Double IPA,Dark Lager,Millennium,1450 - Dennys Favorite 50,Pale,79 IBU,9.6%,12.9°Blg
+1145,4d82dfa1-6f85-42d6-85f1-90cb6b85e3bc,Lowenbrau,Old Rasputin Russian Imperial Stout,Light Lager,Brewer’s Gold,3278 - Belgian Lambic Blend,Caramel,11 IBU,5.9%,10.0°Blg
+4402,f97b7931-f83d-4b68-8c9e-4d8ac672363f,Stella Artois,Samuel Smith’s Oatmeal Stout,Belgian Strong Ale,Mosaic,1187 - Ringwood Ale,Black malt,90 IBU,5.5%,7.1°Blg
+2546,ea66b0aa-f263-471f-b568-b932cdaf4582,Guinness,Ruination IPA,Light Lager,Sorachi Ace,2112 - California Lager,Chocolate malt,22 IBU,5.0%,5.0°Blg
+9761,9fd50c29-3b4c-424b-b2dd-d3c7ad11d291,Miller Draft,Nugget Nectar,Pilsner,Simcoe,1056 - American Ale,Caramel,86 IBU,6.3%,7.1°Blg
+6006,c2bde003-91ab-49d8-bc48-8d4076fe6d6a,Fosters,Trappistes Rochefort 10,Bock,Chelan,3711 - French Saison,Chocolate,100 IBU,7.9%,6.6°Blg
+8443,b9319e1c-c206-4a64-b7cb-efb01f54b59a,Becks,Delirium Noctorum,Scottish And Irish Ale,Ahtanum,2308 - Munich Lager,Caramel,78 IBU,3.1%,14.0°Blg
+5303,737d0e30-5fe3-422e-bbd1-c23d027c98c5,Paulaner,Shakespeare Oatmeal,Stout,Brewer’s Gold,5526 - Brettanomyces lambicus,Carapils,16 IBU,8.7%,12.6°Blg
+4673,71c0b58b-499c-4a18-9baa-6077a3335764,Samuel Adams,Trappistes Rochefort 8,Belgian And French Ale,Magnum,3333 - German Wheat,Special roast,58 IBU,7.5%,9.9°Blg
+3744,11a60481-66a6-45cd-94f2-17e87468f498,Dos Equis,Samuel Smith’s Imperial IPA,European Amber Lager,Bravo,2308 - Munich Lager,Munich,39 IBU,2.5%,6.8°Blg
+377,18f2081a-dbc5-4bfe-8b34-c8bf567ee49b,Pacifico,Bourbon County Stout,Stout,Sterling,1450 - Dennys Favorite 50,Munich,77 IBU,3.0%,5.6°Blg
+6403,4e089d07-322c-4188-a010-864e51cf3201,Pacifico,Two Hearted Ale,Porter,Glacier,2007 - Pilsen Lager,Vienna,12 IBU,6.1%,10.8°Blg
+4398,f798d6ba-8d6c-4678-9301-e5217d525fff,Carlsberg,Bell’s Expedition,Porter,TriplePearl,3056 - Bavarian Wheat Blend,Roasted barley,82 IBU,2.8%,19.1°Blg
+8029,ee630aa4-33c2-4942-bfd2-55caa49f9929,Coors lite,Chocolate St,Light Hybrid Beer,Glacier,3056 - Bavarian Wheat Blend,Caramel,81 IBU,8.7%,19.1°Blg
+2754,d3a3730a-9591-4f99-8b9d-f260fc05b3bc,Coors lite,Kirin Inchiban,Stout,Ultra,2278 - Czech Pils,Munich,49 IBU,5.6%,8.2°Blg
+9652,da807185-5afe-43f9-a623-2784b5fcc7a7,Stella Artois,Orval Trappist Ale,Belgian And French Ale,Saaz,5526 - Brettanomyces lambicus,Special roast,82 IBU,3.2%,16.5°Blg
+4822,ea526ff8-e772-42d0-9706-6889cc75bad0,Stella Artois,Celebrator Doppelbock,Porter,Nugget,3711 - French Saison,Carapils,19 IBU,9.1%,12.2°Blg
